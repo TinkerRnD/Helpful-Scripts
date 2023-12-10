@@ -6,7 +6,7 @@
 # Target: Git/Cygwin/Msys2 for Windows
 #
 #
-#   Do EDIT this next "$installPath" variable definition to the Path of Your "Git for Windows"
+#   Do EDIT this next "$installPath" variable definition to the Path of Your "Msys2/Git Bash/ or Cygwen for Windows" (currently configured for Msys2)
 # ROOT Installation Folder like the Pre-Filled "Default Path" already written there.
 # [Note that it MUST have a "usr\bin" "Folder\SubFolder" Structure right in that Path]
 # (It should also be pretty Obvious if "You're Doing it Wrong" since PowerShell WILL Display a
